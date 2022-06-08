@@ -1,3 +1,18 @@
-# Doctorcare
-Projeto desenvolvido na semana da NLWReturn da Rocketseat, feito com HTML, CSS e Javascript.
-Projeto foi focado em criar um site do zero simulando ambientes reais de desenvolvimento, e aplicando boas praticas. Foi aplicado responsividade e reuso de código para facil manutenção.
+# Doctor Care
+
+# Sobre o projeto
+
+Doctor Care é um dsite criado na semana NLWReturn da rockeseat onde foi desenvolvido site do zero.
+
+## Layout
+![Watchme](https://github.com/FabricioOliveira1/readMe--model/blob/main/assets/wacthme.jpg)
+
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJS
+
+# Autor
+
+[Fabricio Oliveira](https://www.linkedin.com/in/fabricioliveira-1/)
+
+## Agradecimentos a Rocketseat pelo conteúdo e aprendizado!
